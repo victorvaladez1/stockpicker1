@@ -1,1 +1,1 @@
-# stockpicker1
+# StockPicker
